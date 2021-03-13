@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentWebApi.Core", "PaymentWebApi.Core\PaymentWebApi.Core.csproj", "{42E81FBC-56A0-4A50-9009-FE88349642AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBHepler.Core", "DBHepler.Core\DBHepler.Core.csproj", "{C789BEF6-84F7-4C37-ABC4-9547D059A329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E81FBC-56A0-4A50-9009-FE88349642AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E81FBC-56A0-4A50-9009-FE88349642AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E81FBC-56A0-4A50-9009-FE88349642AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E81FBC-56A0-4A50-9009-FE88349642AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C789BEF6-84F7-4C37-ABC4-9547D059A329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C789BEF6-84F7-4C37-ABC4-9547D059A329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C789BEF6-84F7-4C37-ABC4-9547D059A329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C789BEF6-84F7-4C37-ABC4-9547D059A329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5D63A3F-14F5-4A6A-B5F2-A0FBEE43BE8D}
+	EndGlobalSection
+EndGlobal
